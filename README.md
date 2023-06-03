@@ -51,4 +51,4 @@ To install and run this project locally, follow these steps:
 ![longurl](https://github.com/Santhoshnov/Linkify/assets/108118100/dd089873-ef4a-42af-8979-dcddf40bfd42)
 ![shorturl](https://github.com/Santhoshnov/Linkify/assets/108118100/61162674-b00e-4772-886f-296063a033a0)
 
-[livelink](https://odd-tan-pangolin-veil.cyclic.app/)
+livelink - https://odd-tan-pangolin-veil.cyclic.app/
