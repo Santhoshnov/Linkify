@@ -6,7 +6,7 @@ const shortId = require('shortid');
 const app = express();
 
 mongoose.set('strictQuery', false);
-mongoose.connect('mongodb+srv://santhosh13112002:MrtNyDKGsTUS8VC5@cluster0.jikeuia.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<username>:<password>@cluster0.jikeuia.mongodb.net/?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
