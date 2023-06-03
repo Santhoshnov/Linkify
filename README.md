@@ -39,7 +39,6 @@ To install and run this project locally, follow these steps:
 - Express.js
 - MongoDB
 - Mongoose
-
 - EJS (Embedded JavaScript)
 - Valid-Url
 - Shortid
