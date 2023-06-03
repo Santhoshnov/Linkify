@@ -25,7 +25,7 @@ To install and run this project locally, follow these steps:
 3. Set up the MongoDB connection in `server.js`
 4. Start the application: `node server.js`
 
-##Usage
+## Usage
 
 1. Open your web browser and navigate to `http://localhost:3000`
 2. Enter a long URL in the input field on the homepage and click the "Shorten" button.
