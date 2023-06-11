@@ -42,7 +42,7 @@ To install and run this project locally, follow these steps:
 - EJS (Embedded JavaScript)
 - Valid-Url
 - Shortid
-- HTML/CSS
+- HTML
 - Bootstrap
 
 ## Demo
